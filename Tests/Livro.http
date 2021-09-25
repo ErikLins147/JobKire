@@ -1,0 +1,9 @@
+###
+POST   https://localhost:5001/api/livro/create
+Content-Type:  application/json
+
+{
+    "Nome" : " livrim",
+    "Preco" : 1.5
+    
+}
